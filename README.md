@@ -15,10 +15,10 @@ I'm a student and aspiring cybersecurity specialist with a passion for ethical h
 ## 🛠️ Skills & Tools
 
 - Operating Systems: Linux (Fedora, QubesOS, EndeavourOS), Windows (optimized & hardened)
-- Languages: Bash, Python, Markdown, a bit of Java (AI-Assisted)
+- Languages: Bash, Python, C++, Kotlin (AI-Assisted)
 - Tools: Wireshark, Cutter (basic), Binary Ninja (basic)
 - Systems: Virtualization (QEMU/KVM), Secure Boot, disk encryption, live ISO customization
-- Development: Git, GitHub, Gradle (basic), Android Studio (basic)
+- Development: Git, GitHub, Gradle, Android Studio
 
 ## 📚 Current Projects
 
