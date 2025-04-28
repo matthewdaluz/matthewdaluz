@@ -8,13 +8,13 @@ I'm a student and aspiring cybersecurity specialist with a passion for ethical h
 
 - 🎓 Cybersecurity learner with a focus on Red Team operations and digital privacy
 - 💻 Passionate about Linux, system internals, and open-source software
-- 📱 Mobile privacy advocate (currently using GrapheneOS on a Pixel 7a)
+- 📱 Mobile privacy advocate
 - 🧠 Organized, detail-oriented, and driven by curiosity and self-improvement
 - 💬 I’m always happy to connect with like-minded people in tech and infosec
 
 ## 🛠️ Skills & Tools
 
-- Operating Systems: Linux (Fedora, QubesOS, EndeavourOS), Windows (optimized & hardened)
+- Operating Systems: Linux (Fedora, QubesOS, EndeavourOS, etc), Windows 10/11 (optimized & hardened)
 - Languages: Bash, Python, C++, Kotlin (AI-Assisted)
 - Tools: Wireshark, Cutter (basic), Binary Ninja (basic)
 - Systems: Virtualization (QEMU/KVM), Secure Boot, disk encryption, live ISO customization
@@ -34,7 +34,7 @@ I'm a student and aspiring cybersecurity specialist with a passion for ethical h
 
 ## 📫 Get in Touch
 
-Feel free to check out my repositories or reach out via my public email if you'd like to collaborate, ask questions, or just talk tech.
+Feel free to check out my repositories or reach out via my email if you'd like to collaborate, ask questions, or just talk tech.
 
 Thanks for stopping by!
 
