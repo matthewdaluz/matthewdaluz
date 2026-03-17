@@ -1,43 +1,95 @@
-# 👋 Hi, I’m Matthew DaLuz
+# 👋 Hi, I'm Matthew DaLuz
 
-Welcome to my GitHub profile!
+**Red Teamer • FOSS Developer • Privacy Advocate • Systems Thinker**
 
-I'm a student and aspiring cybersecurity specialist with a passion for ethical hacking, online privacy, and technology tinkering. I’m currently focused on Red Teaming and Penetration Testing using platforms like TryHackMe and CTF challenges to sharpen my skills.
-
-## 🔐 About Me
-
-- 🎓 Cybersecurity learner with a focus on Red Team operations and digital privacy
-- 💻 Passionate about Linux, system internals, and open-source software
-- 📱 Mobile privacy advocate
-- 🧠 Organized, detail-oriented, and driven by curiosity and self-improvement
-- 💬 I’m always happy to connect with like-minded people in tech and infosec
-
-## 🛠️ Skills & Tools
-
-- Operating Systems: Linux (Fedora, QubesOS, EndeavourOS, etc), Windows 10/11 (optimized & hardened)
-- Languages: Bash, Python, C++, Kotlin (AI-Assisted)
-- Tools: Wireshark, Cutter (basic), Binary Ninja (basic)
-- Systems: Virtualization (QEMU/KVM), Secure Boot, disk encryption, live ISO customization
-- Development: Git, GitHub, Gradle, Android Studio
-
-## 📚 Current Projects
-
-- 🛠️ Rebuilding and customizing a secure Linux live ISO (UEFIParted)
-- 🔧 Automating red team lab environments
-- 💡 Building personal scripts and tools to enhance privacy and productivity
-
-## 🧭 Values
-
-- Honesty, resilience, and lifelong learning
-- Respect for user freedom and digital autonomy
-- Commitment to ethical hacking and responsible disclosure
-
-## 📫 Get in Touch
-
-Feel free to check out my repositories or reach out via my email if you'd like to collaborate, ask questions, or just talk tech.
-
-Thanks for stopping by!
+Welcome to my GitHub profile — a workspace where cybersecurity, systems programming, and open-source philosophy intersect. I'm an 18-year-old developer and aspiring red teamer from Hamilton, Ontario, building tools that put control back in users' hands.
 
 ---
 
-> "The quieter you become, the more you can hear." — Ram Dass
+## 🔐 Who I Am
+
+I'm a self-taught cybersecurity specialist and software developer with a deep focus on red teaming, privacy infrastructure, and systems-level programming. I live with High-Functioning Autism, ADHD, OCD, and Complex Tourette's Syndrome — and I've learned to treat my brain like a custom-built system: one I've reverse-engineered, optimized, and now use to build things that matter.
+
+I founded **[RedHead Industries](https://github.com/redhead-industries)** , a FOSS-oriented organization dedicated to software freedom, privacy defense, and open research.
+
+---
+
+## 🛠️ What I Build
+
+| Project | Description | Status |
+|--------|-------------|--------|
+| **[APM (Android Package Manager)](https://github.com/matthewdaluz/AndroidPackageManager)** | 10,000+ line C++17 package manager for rooted Android — APT-style workflow, deb support, dependency resolution, GPG verification, and Magisk-inspired module system | Open Beta (2.0.0b) |
+| **[Fisca](https://github.com/matthewdaluz/fisca)** | Offline-first Android app for ODSP/DSO recipients in Ontario — transaction tracking, HST auto-calc, CSV import/export, zero internet permissions | Active |
+| **[GNUXON](https://github.com/redhead-industries/gnuxon)** | GPLv3 bodycam app for Android — hardware control, offline-only, reproducible builds for F-Droid | v2.0b "Bobcat" |
+| **[LenovoKeyboardFixer](https://github.com/redhead-industries/LenovoKeyboardFixer)** | Production-ready Linux utility fixing PS/2 keyboard wake issues on Lenovo laptops | Stable |
+| **[SimpleBoot](https://github.com/redhead-industries/SimpleBoot)** | Root Android app that turns phones into USB boot devices via ConfigFS — live OS deployment without extra hardware | Active |
+| **[UEFIParted](https://github.com/matthewdaluz/UEFIParted)** | Minimalist Debian-based live ISO for UEFI firmware tasks, Secure Boot compatible | Inactive/Discontinued |
+
+---
+
+## 🧠 Technical Skills
+
+**Cybersecurity**
+- Red Teaming & Penetration Testing
+- Threat Modeling & C2 Tunneling
+- Social Engineering Awareness & OPSEC
+- Privilege Escalation Techniques
+- Responsible Disclosure
+
+**Languages**
+- C++17 • Kotlin • Bash • Python (Beginner) • systemd scripting
+
+**Operating Systems**
+- Linux: QubesOS, EndeavourOS (Arch), Debian, Ubuntu, Fedora
+- Android: AOSP development, GrapheneOS, iodeOS, LineageOS
+- Firmware: UEFI, Secure Boot, BIOS metadata purging
+
+**Android Development**
+- NDK • Root-level system programming • Magisk modules • AOSP integration (Soong/Ninja)
+
+**Networking & Privacy**
+- SOCKS5 infrastructure (Dante) • OpenVPN • obfs4 Tor bridges • VPN chaining • DNS leak prevention
+
+---
+
+## 🧪 Security Labs & Research
+
+- **Personal Privacy Infrastructure:** Transformed EndeavourOS into a SOCKS5 proxy with MullvadVPN integration and obfs4 Tor bridging
+- **TryHackMe & HTB:** Multiple hours in enumeration, lateral movement, privilege escalation — Red Team Path (in progress)
+- **Vulnerability Disclosure:** Identified exposed `logging-key.json` in an undisclosed Android app (April 2025) — responsibly disclosed
+
+---
+
+## 📚 Current Focus
+
+- Advancing APM toward production release with full AOSP integration
+- Building out RedHead Industries' open-research branch (experimental neuromedicine and artificial intelligence)
+- Completing Red Team Path and pursuing eJPT certification
+- Contributing to privacy-focused Android tooling
+
+---
+
+## 🧭 Core Values
+
+- **Privacy isn't hiding — it's making tracking expensive and annoying.**
+- **Software should be free (as in freedom), transparent, and accountable.**
+- **Build tools that help people, especially the vulnerable.**
+- **Never stop reverse-engineering — yourself included.**
+
+---
+
+## 📫 Get in Touch
+
+- **Email:** [matthewdaluz@tutamail.com](mailto:matthewdaluz@tutamail.com)
+- **GitHub:** [github.com/matthewdaluz](https://github.com/matthewdaluz)
+- **Organization:** [RedHead Industries](https://github.com/redhead-industries)
+- **Web (RedHead Industries):** [redheadindustries.xyz](https://redheadindustries.xyz)
+- **Web (Personal):** [matthewdaluz.me](https://matthewdaluz.me)
+
+---
+
+> *"The quieter you become, the more you can hear."* — Ram Dass
+>
+> *Also: "i use debian btw"* — Matthew DaLuz
+
+🧡 *Custom-built, self-documenting, and still evolving.*
