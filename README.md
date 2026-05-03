@@ -60,7 +60,7 @@ I founded **[RedHead Industries](https://github.com/redhead-industries/)** , a F
 
 ---
 
-## 📚 Current Focus
+## Current Focus
 
 - Advancing APM toward production release with full AOSP integration
 - Building out RedHead Industries' open-research branch (experimental neuromedicine and artificial intelligence)
