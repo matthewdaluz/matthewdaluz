@@ -10,7 +10,7 @@ Welcome to my GitHub profile — a workspace where cybersecurity, systems progra
 
 I'm a self-taught cybersecurity specialist and software engineer & developer with a deep focus on red teaming, privacy infrastructure, and systems-level programming. I live with High-Functioning Autism, ADHD, OCD, and Complex Tourette's Syndrome — and I've learned to treat my brain like a custom-built system: one I've reverse-engineered, optimized, and now use to build things that matter.
 
-I founded **[RedHead Industries](https://github.com/redhead-industries/)** , a FOSS-oriented and nonprofit organization dedicated to software freedom, privacy defense, and open research.
+I founded **[Skidworks](https://github.com/skidworks-openengineering/)** , a FOSS-oriented and nonprofit organization dedicated to software freedom, privacy defense, and open research.
 
 ---
 
@@ -18,11 +18,11 @@ I founded **[RedHead Industries](https://github.com/redhead-industries/)** , a F
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| **[APM (Android Package Manager)](https://github.com/matthewdaluz/AndroidPackageManager/)** | 10,000+ line C++17 package manager for Android — APT-style workflow, deb support, dependency resolution, GPG verification, and Magisk-inspired module system that doesn't require any form of rooting. | Open Beta (2.0.4b) |
+| **[APM (Android Package Manager)](https://github.com/matthewdaluz/AndroidPackageManager/)** | 10,000+ line C++17 package manager for Android — APT-style workflow, deb support, dependency resolution, GPG verification, and Magisk-inspired module system that doesn't require any form of rooting. | Open Beta (2.0.5b) |
 | **[Fisca](https://github.com/matthewdaluz/fisca/)** | Offline-first Android app for ODSP/DSO recipients in Ontario — transaction tracking, HST auto-calc, CSV import/export, zero internet permissions | Active |
-| **[GNUXON](https://github.com/redhead-industries/gnuxon)** | GPLv3 bodycam app for Android — hardware control, offline-only, reproducible builds for F-Droid | v2.0b "Bobcat" |
-| **[LenovoKeyboardFixer](https://github.com/redhead-industries/LenovoKeyboardFixer/)** | Production-ready Linux utility fixing PS/2 keyboard wake issues on Lenovo laptops | Stable |
-| **[SimpleBoot](https://github.com/redhead-industries/SimpleBoot/)** | Root-required Android app that turns phones into USB boot devices via ConfigFS or other methods — live OS deployment without extra hardware | Active |
+| **[GNUXON](https://github.com/skidworks-openengineering/gnuxon)** | GPLv3 bodycam app for Android — hardware control, offline-only, reproducible builds for F-Droid | v2.0b "Bobcat" |
+| **[LenovoKeyboardFixer](https://github.com/skidworks-openengineering/LenovoKeyboardFixer/)** | Production-ready Linux utility fixing PS/2 keyboard wake issues on Lenovo laptops | Stable |
+| **[SimpleBoot](https://github.com/skidworks-openengineering/SimpleBoot/)** | Root-required Android app that turns phones into USB boot devices via ConfigFS or other methods — live OS deployment without extra hardware | Active |
 | **[UEFIParted](https://github.com/matthewdaluz/UEFIParted/)** | Minimalist Debian-based live ISO for UEFI firmware tasks, Secure Boot compatible | Inactive/Discontinued |
 
 ---
@@ -79,11 +79,10 @@ I founded **[RedHead Industries](https://github.com/redhead-industries/)** , a F
 
 ## Get in Touch
 
-- **Email:** [skiddro@skiddro.com](mailto:skiddro@skiddro.com)
+- **Email:** [matthewdaluz@skidworks.sh](mailto:matthewdaluz@skidworks.sh)
 - **GitHub:** [github.com/matthewdaluz](https://github.com/matthewdaluz/)
-- **Organization:** [RedHead Industries](https://github.com/redhead-industries/)
-- **Web (RedHead Industries):** [redheadindustries.xyz](https://redheadindustries.xyz/)
-- **Web (Personal):** [skiddro.com](https://skiddro.com/)
+- **Organization:** [Skidworks](https://github.com/skidworks-openengineering/)
+- **Web (Skidworks):** [skidworks.sh](https://skidworks.sh/)
 
 ---
 
